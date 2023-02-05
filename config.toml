@@ -1,3 +1,16 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+# title = 'Jay Writes'
+theme = "congo"
+# config/_default/languages.en.toml
+
+title = "My awesome website"
+
+[author]
+name = "Jay Patel"
+image = "wp7460286.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
